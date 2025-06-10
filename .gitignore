@@ -170,4 +170,3 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 data.csv
-
